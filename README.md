@@ -1,4 +1,4 @@
-# A humble research technician's journey to data science-hood
+# A humble microbiologist's journey to data science-hood
 
 Hello! I'm a microbiology graduate, currently working as a professional in the research industry. I have an interest in bioinformatics and data science, and started learning python in early 2022.
 
