@@ -1,10 +1,11 @@
-# MY journey to data science-hood
+# My journey to data science-hood
 
-Hello! I'm a microbiology graduate, currently working as a data analyst. I have an interest in bioinformatics, data engineering and data science, and started my journey in early 2022.
+Hello! I am currently working as a data analyst with an interest in bioinformatics, data engineering and data science. I started my data journey in early 2022 and I am currently enrolled on the [DataTalksClub data engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) course as part of the 2024 cohort. 
 
-All the notebooks that are labelled 'beginner', 'intermediate', etc. are practice projects that i've done since learning python, and so (particularly some of the earlier ones) might be a 'little rough around the edges' or basic. I tried to do as many as I could when I picked up a new technique or library. 
-
+Please see my portfolio website and follow my progress!
 
 ## Personal Links
 
 [LinkedIn](https://www.linkedin.com/in/jack-murray-7534131b3/)
+
+[Portfolio Website](https://jackv-murray.github.io/)
