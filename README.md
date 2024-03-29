@@ -1,11 +1,24 @@
-# My journey to data science-hood
+# Hello, my name is Jack
 
-Hello! I am currently working as a data analyst with an interest in bioinformatics, data engineering and data science. I started my data journey in early 2022 having left a career in biological research, and I am currently enrolled on the [DataTalksClub data engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) course as part of the 2024 cohort. 
+I am currently working as a data analyst with an interest in bioinformatics, analytics & data engineering, and data science.
 
-Please see my **portfolio website** below and follow my progress!
+Check out some of my latest progress below.
 
-## Personal Links
+### Projects
 
-[LinkedIn](https://www.linkedin.com/in/jack-murray-7534131b3/)
 
-[Portfolio Website](https://jackv-murray.github.io/)
+### Experienced in
+:wrench: Data Engineering </br>
+  - Orchestration tools: Mage, Matillion </br>
+  - Modelling: dbt
+  - Infrastructure: terraform
+  - Cloud: AWS, GCP
+ 
+:bar_chart: Data Visualisation
+ - Tableau (certified)
+
+
+## Find me here
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-murray-7534131b3/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/jack.murray5825/vizzes)
+[![Portfolio Website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jackv-murray.github.io/)
