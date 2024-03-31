@@ -4,17 +4,19 @@ I am currently working as a data analyst with an interest in bioinformatics, ana
 
 Check out some of my latest progress below.
 
-### Projects
+## Projects
+
+[Last.fm scrobble insights pipeline](https://github.com/jackv-murray/lastfm-scrobble-analysis/tree/main) - end-to-end pipeline on GCP, using docker, mage, terraform, dbt & tableau
 
 
-### Experienced in
-:wrench: Data Engineering </br>
+## Experienced in
+:wrench: **Data Engineering** </br>
   - Orchestration tools: Mage, Matillion </br>
   - Modelling: dbt
   - Infrastructure: terraform
   - Cloud: AWS, GCP
  
-:bar_chart: Data Visualisation
+:bar_chart: **Data Visualisation**
  - Tableau (certified)
 
 
